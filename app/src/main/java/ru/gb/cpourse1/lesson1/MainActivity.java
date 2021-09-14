@@ -80,7 +80,7 @@ public class MainActivity extends Activity implements CompoundButton.OnCheckedCh
 
     }
 
-    //Обработчик нажатия CheckBox, Switch, ToggleButton
+    //Обработчик нажатия CheckBox, Switch, ToggleButton...
     @Override
     public void onCheckedChanged(CompoundButton buttonView, boolean isChecked) {
 
