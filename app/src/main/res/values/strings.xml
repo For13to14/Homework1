@@ -1,3 +1,17 @@
 <resources>
-    <string name="app_name">Lesson1</string>
+    <string name="app_name">Приложение</string>
+    <string name="write_field_text">Получите текст</string>
+    <string name="read_field_text">Введите текст</string>
+
+    <string name="toggle_button_on_text">Тёмный фон</string>
+    <string name="repeat_button_text">Повторить</string>
+    <string name="checkbox_text">CheckBoxText</string>
+    <string name="switch_text">Switch text</string>
+    <string name="text_person_name_EditText">Frederick Charles</string>
+    <string name="phone_EditText">1-900-909-Fred</string>
+    <string name="text_EditText">Friday</string>
+    <string name="number_EditText">13</string>
+    <string name="text_password_EditText">TheSpringwoodSlasher</string>
+    <string name="text_email_EditText">Friday13@mail.ru</string>
+
 </resources>
